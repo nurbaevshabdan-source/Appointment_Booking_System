@@ -36,3 +36,8 @@ How to Run
 
 1. Run Main.java
 2. Use menu to manage appointments
+
+
+My presentation :
+https://docs.google.com/presentation/d/19SdVA3joT8Uj4mMv3t3nsEBjsRUQ4KRu3OoxwCHvGvc/edit?usp=sharing
+
